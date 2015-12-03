@@ -1,0 +1,7 @@
+{
+  "name": "TestOn",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-google-cdn": "^2.1.0"
+  }
+}

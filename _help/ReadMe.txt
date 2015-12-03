@@ -10,6 +10,8 @@ bower i -S bootstrap bootstrap-material-design
 bower install jquery --save-dev
 bower i jquery -S
 bower i normalize.css -S
+bower i modernizr.css -S
+
 bower install zepto -D
 bower uninstall zepto -D
 

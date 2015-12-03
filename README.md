@@ -1,4 +1,5 @@
-Пример работы с JS
+# Пример работы с JS [![Build Status](https://test/master)](http://test/zr) [![Inline docs](http://test/master)](http://test/zr)
+
 ##### Примеры и описание.
 
 - [Web-сайт](http://www.test.com)
